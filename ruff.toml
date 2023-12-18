@@ -1,0 +1,5 @@
+line-length = 80
+
+[format]
+# Like Black, use double quotes for strings.
+quote-style = "single"

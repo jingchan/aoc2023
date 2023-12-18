@@ -55,11 +55,5 @@ with open(IN_FILE, "r") as f:
             lens = box[i][0][l]
             total += bi * (slot+1) * int(lens)
 
-
-
-
-                # print(ord(c))
-        # grid.append(line)
-
     print(total)
 # rn=1,cm-,qp=3,cm=2,qp-,pc=4,ot=9,ab=5,pc-,pc=6,ot=7

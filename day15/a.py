@@ -22,8 +22,5 @@ with open(IN_FILE, "r") as f:
                 codeval %= 256
             total += codeval
 
-                # print(ord(c))
-        # grid.append(line)
-
     print(total)
 # rn=1,cm-,qp=3,cm=2,qp-,pc=4,ot=9,ab=5,pc-,pc=6,ot=7
