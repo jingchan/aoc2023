@@ -77,6 +77,7 @@ def timeto(p1, v1, target):
 
 
 # ### Derive line intersection formula from line equations.
+# ### Solution to Part 1:
 #
 # let x be intersection between p1 and p2
 # let d be diff between p1 and p2
